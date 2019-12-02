@@ -1,0 +1,37 @@
+.mediaViewInfo {
+    --web-view-name: objetivos;
+    --web-view-id: objetivos;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: objetivos;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#objetivos {
+    width: 1000px;
+    height: 310px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: objetivos;
+    --web-view-id: objetivos;
+    --web-enable-deep-linking: true;
+}
+#OBJETIVOS__Aportar_a_los_estud {
+    position: absolute;
+    left: 89px;
+    top: 185px;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}

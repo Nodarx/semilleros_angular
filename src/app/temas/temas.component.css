@@ -1,0 +1,1068 @@
+.mediaViewInfo {
+    --web-view-name: temas de interés grafo;
+    --web-view-id: temas_de_inter_s_grafo;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: temas_de_inter_s_grafo;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#temas_de_inter_s_grafo {
+    width: 100px;
+    height: 300px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: temas de interés grafo;
+    --web-view-id: temas_de_inter_s_grafo;
+    --web-enable-deep-linking: true;
+}
+#Elipse_35 {
+    opacity: 0.4;
+}
+.Elipse_35 {
+    position: absolute;
+    overflow: visible;
+    width: 115px;
+    height: 114px;
+    left: 128px;
+    top: 232px;
+}
+#Elipse_38 {
+    opacity: 0.16;
+}
+.Elipse_38 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 78px;
+    top: 182px;
+}
+#Elipse_37 {
+    opacity: 0.25;
+}
+.Elipse_37 {
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    height: 64px;
+    left: 278px;
+    top: 286px;
+}
+#Elipse_39 {
+    opacity: 0.42;
+}
+.Elipse_39 {
+    position: absolute;
+    overflow: visible;
+    width: 44px;
+    height: 44px;
+    left: 209px;
+    top: 150px;
+}
+#Elipse_36 {
+    opacity: 0.12;
+}
+.Elipse_36 {
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    height: 66px;
+    left: 306px;
+    top: 172px;
+}
+#Elipse_44 {
+    opacity: 0.4;
+}
+.Elipse_44 {
+    position: absolute;
+    overflow: visible;
+    width: 57px;
+    height: 53px;
+    left: 46px;
+    top: 341px;
+}
+.Trazado_2 {
+    overflow: visible;
+    position: absolute;
+    width: 130.5px;
+    height: 127px;
+    left: 227px;
+    top: 477px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Elipse_30 {
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    height: 92px;
+    left: 78px;
+    top: 426px;
+}
+#Elipse_29 {
+    opacity: 0.27;
+}
+.Elipse_29 {
+    position: absolute;
+    overflow: visible;
+    width: 53px;
+    height: 54px;
+    left: 231px;
+    top: 374px;
+}
+.Elipse_45 {
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    height: 94px;
+    left: 324px;
+    top: 383px;
+}
+#Elipse_46 {
+    opacity: 0.14;
+}
+.Elipse_46 {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 43px;
+    left: 469px;
+    top: 468px;
+}
+.Elipse_47 {
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    height: 73px;
+    left: 388px;
+    top: 531px;
+}
+#Elipse_48 {
+    opacity: 0.48;
+}
+.Elipse_48 {
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 43px;
+    left: 128px;
+    top: 568px;
+}
+#Elipse_40 {
+    opacity: 0.4;
+}
+.Elipse_40 {
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    height: 98px;
+    left: 519px;
+    top: 103px;
+}
+#Elipse_41 {
+    opacity: 0.48;
+}
+.Elipse_41 {
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    height: 74px;
+    left: 447px;
+    top: 211px;
+}
+#Elipse_41_A3_Ellipse_15 {
+    opacity: 0.27;
+}
+.Elipse_41_A3_Ellipse_15 {
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    height: 52px;
+    left: 591px;
+    top: 232px;
+}
+#Elipse_41_A3_Ellipse_16 {
+    opacity: 0.42;
+}
+.Elipse_41_A3_Ellipse_16 {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 54px;
+    left: 680px;
+    top: 153px;
+}
+#Elipse_11 {
+    opacity: 0.4;
+}
+.Elipse_11 {
+    position: absolute;
+    overflow: visible;
+    width: 108px;
+    height: 105px;
+    left: 780px;
+    top: 249px;
+}
+#Elipse_13 {
+    opacity: 0.4;
+}
+.Elipse_13 {
+    position: absolute;
+    overflow: visible;
+    width: 68px;
+    height: 62px;
+    left: 829px;
+    top: 163px;
+}
+#Elipse_13_A3_Ellipse_19 {
+    opacity: 0.3;
+}
+.Elipse_13_A3_Ellipse_19 {
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    height: 53px;
+    left: 710px;
+    top: 232px;
+}
+#Elipse_13_A3_Ellipse_20 {
+    opacity: 0.28;
+}
+.Elipse_13_A3_Ellipse_20 {
+    position: absolute;
+    overflow: visible;
+    width: 68px;
+    height: 67px;
+    left: 938px;
+    top: 182px;
+}
+#Elipse_13_A3_Ellipse_21 {
+    opacity: 0.42;
+}
+.Elipse_13_A3_Ellipse_21 {
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    height: 82px;
+    left: 928px;
+    top: 300px;
+}
+#Elipse_13_A3_Ellipse_22 {
+    opacity: 0.65;
+}
+.Elipse_13_A3_Ellipse_22 {
+    position: absolute;
+    overflow: visible;
+    width: 40px;
+    height: 37px;
+    left: 780px;
+    top: 374px;
+}
+#Trazado_3 {
+    opacity: 0.4;
+}
+.Trazado_3 {
+    overflow: visible;
+    position: absolute;
+    width: 104.653px;
+    height: 108.539px;
+    left: 739px;
+    top: 490px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_24 {
+    opacity: 0.56;
+}
+.Elipse_24 {
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    height: 57px;
+    left: 648px;
+    top: 536px;
+}
+#Elipse_24_A3_Ellipse_24 {
+    opacity: 0.56;
+}
+.Elipse_24_A3_Ellipse_24 {
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    height: 48px;
+    left: 872px;
+    top: 442px;
+}
+#Elipse_24_A3_Ellipse_25 {
+    opacity: 0.37;
+}
+.Elipse_24_A3_Ellipse_25 {
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    height: 72px;
+    left: 902px;
+    top: 531px;
+}
+#Elipse_27 {
+    opacity: 0.33;
+}
+.Elipse_27 {
+    position: absolute;
+    overflow: visible;
+    width: 68px;
+    height: 70px;
+    left: 683px;
+    top: 420px;
+}
+#Trazado_4 {
+    opacity: 0.41;
+}
+.Trazado_4 {
+    overflow: visible;
+    position: absolute;
+    width: 150.507px;
+    height: 143.535px;
+    left: 483px;
+    top: 322.465px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_9 {
+    opacity: 0.07;
+}
+.Elipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    height: 42px;
+    left: 391px;
+    top: 318px;
+}
+#Elipse_9_A3_Ellipse_28 {
+    opacity: 0.29;
+}
+.Elipse_9_A3_Ellipse_28 {
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    height: 56px;
+    left: 654px;
+    top: 310px;
+}
+#Elipse_9_A3_Ellipse_29 {
+    opacity: 0.23;
+}
+.Elipse_9_A3_Ellipse_29 {
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    height: 46px;
+    left: 523px;
+    top: 508px;
+}
+#Elipse_9_A3_Ellipse_30 {
+    opacity: 0.25;
+}
+.Elipse_9_A3_Ellipse_30 {
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    height: 30px;
+    left: 527px;
+    top: 280px;
+}
+#Elipse_9_A3_Ellipse_31 {
+    opacity: 0.29;
+}
+.Elipse_9_A3_Ellipse_31 {
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    height: 67px;
+    left: 616px;
+    top: 444px;
+}
+.L_nea_79 {
+    overflow: visible;
+    position: absolute;
+    width: 5.999px;
+    height: 121.041px;
+    left: 564.5px;
+    top: 201.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_80 {
+    overflow: visible;
+    position: absolute;
+    width: 158.345px;
+    height: 58.939px;
+    left: 633.5px;
+    top: 334.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_81 {
+    overflow: visible;
+    position: absolute;
+    width: 139.535px;
+    height: 88.845px;
+    left: 351.5px;
+    top: 429.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_82 {
+    overflow: visible;
+    position: absolute;
+    width: 136.677px;
+    height: 125.736px;
+    left: 363.5px;
+    top: 225.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_83 {
+    overflow: visible;
+    position: absolute;
+    width: 24.721px;
+    height: 25.693px;
+    left: 119.5px;
+    top: 225.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_84 {
+    overflow: visible;
+    position: absolute;
+    width: 45.5px;
+    height: 26.866px;
+    left: 96.5px;
+    top: 324.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_85 {
+    overflow: visible;
+    position: absolute;
+    width: 15.951px;
+    height: 46.31px;
+    left: 209.5px;
+    top: 191.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_86 {
+    overflow: visible;
+    position: absolute;
+    width: 76.466px;
+    height: 40.885px;
+    left: 237.5px;
+    top: 225.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_87 {
+    overflow: visible;
+    position: absolute;
+    width: 38.181px;
+    height: 7.983px;
+    left: 240.5px;
+    top: 303.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_88 {
+    overflow: visible;
+    position: absolute;
+    width: 14.966px;
+    height: 52.26px;
+    left: 264.5px;
+    top: 426.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_89 {
+    overflow: visible;
+    position: absolute;
+    width: 63.406px;
+    height: 28.914px;
+    left: 171.5px;
+    top: 489.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_90 {
+    overflow: visible;
+    position: absolute;
+    width: 21.723px;
+    height: 22.69px;
+    left: 336.5px;
+    top: 473.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_91 {
+    overflow: visible;
+    position: absolute;
+    width: 61.312px;
+    height: 20.95px;
+    left: 173.5px;
+    top: 564.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_92 {
+    overflow: visible;
+    position: absolute;
+    width: 31.159px;
+    height: 5.987px;
+    left: 357.5px;
+    top: 554.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_93 {
+    overflow: visible;
+    position: absolute;
+    width: 62.436px;
+    height: 30.9px;
+    left: 171.5px;
+    top: 414.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_96 {
+    overflow: visible;
+    position: absolute;
+    width: 30.939px;
+    height: 82.344px;
+    left: 141.5px;
+    top: 346.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_97 {
+    overflow: visible;
+    position: absolute;
+    width: 27.841px;
+    height: 42.541px;
+    left: 217.5px;
+    top: 335.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_98 {
+    overflow: visible;
+    position: absolute;
+    width: 58.187px;
+    height: 11.982px;
+    left: 253.5px;
+    top: 175.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_99 {
+    overflow: visible;
+    position: absolute;
+    width: 7.991px;
+    height: 51.136px;
+    left: 320.5px;
+    top: 237.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_100 {
+    overflow: visible;
+    position: absolute;
+    width: 4.966px;
+    height: 15.258px;
+    left: 542.5px;
+    top: 309.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_101 {
+    overflow: visible;
+    position: absolute;
+    width: 31.436px;
+    height: 15.9px;
+    left: 627.5px;
+    top: 351.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_102 {
+    overflow: visible;
+    position: absolute;
+    width: 12.707px;
+    height: 12.707px;
+    left: 615.5px;
+    top: 439.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_103 {
+    overflow: visible;
+    position: absolute;
+    width: 2.999px;
+    height: 42.048px;
+    left: 549.5px;
+    top: 466.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_104 {
+    overflow: visible;
+    position: absolute;
+    width: 59.335px;
+    height: 21.942px;
+    left: 431.5px;
+    top: 345.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_105 {
+    overflow: visible;
+    position: absolute;
+    width: 7.98px;
+    height: 35.196px;
+    left: 399.5px;
+    top: 358.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_106 {
+    overflow: visible;
+    position: absolute;
+    width: 26.984px;
+    height: 146.175px;
+    left: 345.5px;
+    top: 237.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_107 {
+    overflow: visible;
+    position: absolute;
+    width: 19.903px;
+    height: 40.429px;
+    left: 278.5px;
+    top: 346.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_108 {
+    overflow: visible;
+    position: absolute;
+    width: 28.772px;
+    height: 34.636px;
+    left: 499.5px;
+    top: 180.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_109 {
+    overflow: visible;
+    position: absolute;
+    width: 16.925px;
+    height: 39.38px;
+    left: 587.5px;
+    top: 196.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_110 {
+    overflow: visible;
+    position: absolute;
+    width: 64.139px;
+    height: 9.99px;
+    left: 616.5px;
+    top: 163.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_111 {
+    overflow: visible;
+    position: absolute;
+    width: 30.814px;
+    height: 42.581px;
+    left: 631.5px;
+    top: 277.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_112 {
+    overflow: visible;
+    position: absolute;
+    width: 21.43px;
+    height: 10.903px;
+    left: 764.5px;
+    top: 270.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_113 {
+    overflow: visible;
+    position: absolute;
+    width: 43.906px;
+    height: 92.423px;
+    left: 845.5px;
+    top: 352.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_114 {
+    overflow: visible;
+    position: absolute;
+    width: 63.343px;
+    height: 23.939px;
+    left: 627.5px;
+    top: 411.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_115 {
+    overflow: visible;
+    position: absolute;
+    width: 16.795px;
+    height: 21.606px;
+    left: 739.5px;
+    top: 482.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_116 {
+    overflow: visible;
+    position: absolute;
+    width: 43.631px;
+    height: 35.776px;
+    left: 833.5px;
+    top: 478.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_117 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 80px;
+    left: 800.5px;
+    top: 410.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_118 {
+    overflow: visible;
+    position: absolute;
+    width: 27.764px;
+    height: 32.645px;
+    left: 456.5px;
+    top: 508.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_119 {
+    overflow: visible;
+    position: absolute;
+    width: 69.797px;
+    height: 91.604px;
+    left: 582.5px;
+    top: 460.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_120 {
+    overflow: visible;
+    position: absolute;
+    width: 62.492px;
+    height: 35.871px;
+    left: 679.5px;
+    top: 495.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_121 {
+    overflow: visible;
+    position: absolute;
+    width: 32.093px;
+    height: 3.996px;
+    left: 709.5px;
+    top: 559.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_122 {
+    overflow: visible;
+    position: absolute;
+    width: 5.984px;
+    height: 28.176px;
+    left: 848.5px;
+    top: 223.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_123 {
+    overflow: visible;
+    position: absolute;
+    width: 74.375px;
+    height: 30.927px;
+    left: 876.5px;
+    top: 240.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_124 {
+    overflow: visible;
+    position: absolute;
+    width: 25.883px;
+    height: 47.47px;
+    left: 87.5px;
+    top: 387.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_125 {
+    overflow: visible;
+    position: absolute;
+    width: 29.869px;
+    height: 51.494px;
+    left: 490.5px;
+    top: 284.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_126 {
+    overflow: visible;
+    position: absolute;
+    width: 14.888px;
+    height: 27.46px;
+    left: 712.5px;
+    top: 205.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_127 {
+    overflow: visible;
+    position: absolute;
+    width: 22.859px;
+    height: 37.511px;
+    left: 701.5px;
+    top: 280.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_128 {
+    overflow: visible;
+    position: absolute;
+    width: 42.375px;
+    height: 17.927px;
+    left: 886.5px;
+    top: 314.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_129 {
+    overflow: visible;
+    position: absolute;
+    width: 4.989px;
+    height: 27.147px;
+    left: 805.5px;
+    top: 348.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_130 {
+    overflow: visible;
+    position: absolute;
+    width: 18.993px;
+    height: 149.12px;
+    left: 942.5px;
+    top: 382.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_131 {
+    overflow: visible;
+    position: absolute;
+    width: 64.063px;
+    height: 4.998px;
+    left: 838.5px;
+    top: 564.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#OBJETIVOS {
+    opacity: 0.4;
+    position: absolute;
+    left: 149px;
+    top: 283px;
+    overflow: hidden;
+    width: 75px;
+    height: 19px;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(4,4,4,1);
+}
+#INGENIER_A__________________ {
+    opacity: 0.4;
+    position: absolute;
+    left: 510px;
+    top: 360px;
+    overflow: hidden;
+    width: 107px;
+    height: 23px;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(1,1,1,1);
+}
+#EN_SISTEMAS_ {
+    opacity: 0.4;
+    position: absolute;
+    left: 504px;
+    top: 383px;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(1,1,1,1);
+}
+#SOCIALES {
+    opacity: 0.4;
+    position: absolute;
+    left: 517px;
+    top: 406px;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(1,1,1,1);
+}
+#TEMAS_DE___INTER_S {
+    position: absolute;
+    left: 258px;
+    top: 523px;
+    overflow: hidden;
+    width: 72px;
+    height: 42px;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#PROYECTOS__ {
+    opacity: 0.4;
+    position: absolute;
+    left: 754px;
+    top: 544px;
+    overflow: hidden;
+    width: 81px;
+    height: 16px;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#INTEGRANTES {
+    opacity: 0.4;
+    position: absolute;
+    left: 523px;
+    top: 145px;
+    overflow: hidden;
+    width: 103px;
+    height: 16px;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(1,1,1,1);
+}
+#PUBLICACIONES {
+    opacity: 0.4;
+    position: absolute;
+    left: 782px;
+    top: 296px;
+    overflow: hidden;
+    width: 108px;
+    height: 16px;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(3,3,3,1);
+}
+.L_nea_134 {
+    overflow: visible;
+    position: absolute;
+    width: 76.301px;
+    height: 24.954px;
+    left: 371.5px;
+    top: 211.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_135 {
+    overflow: visible;
+    position: absolute;
+    width: 149.241px;
+    height: 37.971px;
+    left: 368.5px;
+    top: 157.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#_An_lisis_de_ {
+    position: absolute;
+    left: 94px;
+    top: 459px;
+    overflow: visible;
+    width: 68px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#redes_sociales {
+    position: absolute;
+    left: 86px;
+    top: 476px;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(0,0,0,1);
+}
+#Innovaci_n {
+    position: absolute;
+    left: 337px;
+    top: 411px;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(0,0,0,1);
+}
+#en_la {
+    position: absolute;
+    left: 354px;
+    top: 428px;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+#educaci_n {
+    position: absolute;
+    left: 343px;
+    top: 447px;
+    overflow: visible;
+    width: 68px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(0,0,0,1);
+}
+#Aprendizaje_autom_tico {
+    position: absolute;
+    left: 394px;
+    top: 548px;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}

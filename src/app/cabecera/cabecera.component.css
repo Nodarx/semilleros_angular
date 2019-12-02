@@ -1,0 +1,92 @@
+.mediaViewInfo {
+    --web-view-name: cabeza;
+    --web-view-id: cabeza;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: cabeza;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#cabeza {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 1350px;
+    height: 300px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: cabeza;
+    --web-view-id: cabeza;
+    --web-enable-deep-linking: true;
+}
+#Rect_ngulo_10 {
+    opacity: 0.48;
+}
+.Rect_ngulo_10 {
+    position: absolute;
+    overflow: visible;
+    width: 1365px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+}
+.NoPath___copia__12_ {
+    position: absolute;
+    overflow: visible;
+    width: 140px;
+    height: 95px;
+    left: 71px;
+    top: 55px;
+}
+.Rect_ngulo_11 {
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    height: 45px;
+    left: 1168px;
+    top: 23px;
+}
+#SIU {
+    position: absolute;
+    left: 1205px;
+    top: 32px;
+    overflow: visible;
+    width: 34px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(12,12,12,1);
+}
+.Trazado_1 {
+    overflow: visible;
+    position: absolute;
+    width: 46.193px;
+    height: 46.348px;
+    left: 1113px;
+    top: 22px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Elipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    height: 38px;
+    left: 1118px;
+    top: 26px;
+}
+._person_90382 {
+    position: absolute;
+    overflow: visible;
+    width: 34px;
+    height: 34px;
+    left: 1119px;
+    top: 26px;
+}

@@ -1,0 +1,37 @@
+.mediaViewInfo {
+    --web-view-name: libros y capitulos;
+    --web-view-id: libros_y_capitulos;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: libros_y_capitulos;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#enventos {
+    width: 900px;
+    height: 600px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: libros y capitulos;
+    --web-view-id: libros_y_capitulos;
+    --web-enable-deep-linking: true;
+}
+#events {
+    position: absolute;
+    left: 89px;
+    top: 183px;
+    overflow: visible;
+    width: 407px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(0,0,0,1);
+}

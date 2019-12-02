@@ -1,0 +1,22 @@
+#profesor{
+    width: 400px;
+    height: 190px;
+}
+.Rect_ngulo_29 {
+    position: relative;
+    overflow: visible;
+    height: 50px;
+    left: 49px;
+    top: 220px;
+}
+#Nombre__C_digo__Carrera_ {
+    position: relative;
+    left: 150px;
+    top: 190px;
+    overflow: visible;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(12,12,12,1);
+}

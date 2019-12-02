@@ -1,0 +1,114 @@
+.mediaViewInfo {
+    --web-view-name: formulario;
+    --web-view-id: formulario;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: formulario;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#formulario {
+    width: 1000px;
+    height: 435px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: formulario;
+    --web-view-id: formulario;
+    --web-enable-deep-linking: true;
+}
+#Grupo_5 {
+    position: absolute;
+    width: 105px;
+    height: 345px;
+    left: 94px;
+    top: 200px;
+    overflow: visible;
+}
+#si_est__interesado_en_particip {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 949px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: rgba(0,0,0,1);
+}
+#Nombre_ {
+    position: absolute;
+    left: 7px;
+    top: 63px;
+    overflow: visible;
+    width: 184px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}
+.NInput{
+    border: solid 1px black;
+    border-radius: 5px;
+    width: 300px;
+    margin-left: 10px;
+}
+.PInput{
+    border: solid 1px black;
+    border-radius: 5px;
+    width: 700px;
+    height: 180px;
+    margin-left: 150px;
+}
+#Correo_institucional_ {
+    position: absolute;
+    left: 7px;
+    top: 138px;
+    overflow: visible;
+    width: 204px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#_Porqu__est__interesado_ {
+    position: absolute;
+    left: 7px;
+    top: 203px;
+    overflow: visible;
+    width: 256px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    color: rgba(0,0,0,1);
+}
+#enviar {
+    position: absolute;
+    left: 890px;
+    top: 300px;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Sitka Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
